@@ -26,4 +26,4 @@ When I am not coding or studying, you can usually find me:
 ## 📫 Let's Connect
 * **LinkedIn:** [Insert your LinkedIn URL here](#)
 * **YouTube:** [mr.transformations](#)
-* **Email:** [Insert your professional email address here](#)
+* **Email:** [devpatel749643@gmail.com](#)
