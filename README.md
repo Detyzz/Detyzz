@@ -24,6 +24,6 @@ When I am not coding or studying, you can usually find me:
 * 🏏 Following the Chennai Super Kings during the IPL season.
 
 ## 📫 Let's Connect
-* **LinkedIn:** [Insert your LinkedIn URL here](#)
+* **LinkedIn:** [[https://www.linkedin.com/in/dev-patel-2a025b373/](DEV PATEL)
 * **YouTube:** [mr.transformations](#)
 * **Email:** [devpatel749643@gmail.com](#)
