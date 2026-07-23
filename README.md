@@ -25,5 +25,4 @@ When I am not coding or studying, you can usually find me:
 
 ## 📫 Let's Connect
 * **LinkedIn:** [[www.linkedin.com/in/detyzzz](#)
-* **YouTube:** [mr.transformations](#)
 * **Email:** [devpatel749643@gmail.com](#)
